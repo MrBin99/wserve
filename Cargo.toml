@@ -1,0 +1,10 @@
+[package]
+name = "wserve"
+edition = "2021"
+description = "A simple command-line web server, written in Rust"
+version = "0.1.0"
+authors = ["MrBin99"]
+license-file = "LICENSE"
+repository = "https://github.com/MrBin99/wserve"
+homepage = "https://github.com/MrBin99/wserve"
+categories = ["command-line-utilities", "web-programming::http-server"]
